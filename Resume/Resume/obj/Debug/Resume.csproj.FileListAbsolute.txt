@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\bin\Debug\Resume.exe.config
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\bin\Debug\Resume.exe
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\bin\Debug\Resume.pdb
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.exe
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Resume\Resume\obj\Debug\Resume.pdb
