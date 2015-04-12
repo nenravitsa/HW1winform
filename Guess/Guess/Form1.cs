@@ -22,27 +22,34 @@ namespace Guess
             Controls.Add(button1);
             Random random = new Random();
             int n = 0;
-            while (true)
+            DialogResult res;
+            do
             {
                 int randomNumber = random.Next(1, 2001);
                 string answer = randomNumber.ToString();
                 n++;
                 string col = n.ToString();
-                DialogResult result = MessageBox.Show(answer, "Правильно?", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                
+                DialogResult result = MessageBox.Show(answer, "Правильно?", MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question);
+
                 if (result == DialogResult.Yes)
                 {
 
-                    DialogResult res = MessageBox.Show("Я выйграл! Количество попыток - "+col+". Хотите сыграть еще раз?", "Win!", MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
+                    res =  MessageBox.Show("Я выйграл! Количество попыток - " + col + ". Хотите сыграть еще раз?", "Win!",
+                            MessageBoxButtons.OKCancel, MessageBoxIcon.Exclamation);
                     if (res == DialogResult.OK)
                     {
                         n = 0;
                     }
                     if (res == DialogResult.Cancel)
                     {
-                        this.Close();
+                        Close();
+                        break;
                     }
                 }
-            }
+            } while (true);
+            Application.Exit();
         }
     }
 }
