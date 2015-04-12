@@ -1,0 +1,9 @@
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\bin\Debug\Guess.exe.config
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\bin\Debug\Guess.exe
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\bin\Debug\Guess.pdb
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.Form1.resources
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.Properties.Resources.resources
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.exe
+C:\Users\Lenovo\Documents\GitHub\HW1winform\Guess\Guess\obj\Debug\Guess.pdb
