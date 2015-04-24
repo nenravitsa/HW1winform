@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(484, 261);
             this.Name = "Form1";
             this.Text = "Mouse move";
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form1_MouseClick);
